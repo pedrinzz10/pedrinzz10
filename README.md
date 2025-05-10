@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Olá, eu sou o Pedro Henrique 👋</h1>
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas | Futuro Game Tester | Apaixonado por tecnologia e IA</p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e IA</p>
 
 ---
 
 ## 📚 Sobre mim
 - 🎓 Cursando ADS na FIAP  
 - 🤖 Desenvolvendo chatbots com IBM Watson  
-- 💼 Em busca de oportunidades como **Game Tester**  
+- 💼 Em busca de oportunidades como DEV
 - ⚡ Aprendo rápido e adoro encarar desafios  
 - 🌱 Estudando Java, JavaScript, Python e DevOps  
 
@@ -50,6 +50,6 @@
 
 ## 🤝 Contato
 <p align="center">
-  <a href="mailto:seu_email@dominio.com"><img src="https://img.shields.io/badge/Email-seu_email@dominio.com-blue?logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-seu-linkedin-blue?logo=linkedin" /></a>
+  <a href="mailto:opedro485@gmail.com"><img src="https://img.shields.io/badge/Email-seu_email@dominio.com-blue?logo=gmail" /></a>
+  <a href="www.linkedin.com/in/pedro-henrique-oliveira-484336261"><img src="https://img.shields.io/badge/LinkedIn-seu-linkedin-blue?logo=linkedin" /></a>
 </p>
