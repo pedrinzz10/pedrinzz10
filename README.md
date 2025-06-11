@@ -1,55 +1,31 @@
+<h1 align="center">👋 Olá! Eu sou o Pedro Henrique</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedrinzz10&color=blue" alt="Visitor Count" />
+  Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, código limpo e aprendizado constante.
 </p>
 
-<h1 align="center">Olá, eu sou o Pedro Henrique 👋</h1>
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e IA</p>
-
----
-
-## 📚 Sobre mim
-- 🎓 Cursando ADS na FIAP  
-- 🤖 Desenvolvendo chatbots com IBM Watson  
-- 💼 Em busca de oportunidades como DEV
-- ⚡ Aprendo rápido e adoro encarar desafios  
-- 🌱 Estudando Java, JavaScript, Python e DevOps  
-
----
-
-## 🛠 Skills
 <p align="center">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-</p>
-
----
-
-## 🔭 Meus Projetos
-<div align="center">
-  <a href="https://github.com/pedrinzz10/chatbot-watson">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrinzz10&repo=chatbot-watson&theme=dark" />
+  <a href="https://github.com/pedrinzz10">
+    <img src="https://github.com/pedrinzz10/pedrinzz10/blob/generated/metrics.svg" alt="GitHub Metrics" />
   </a>
-  <a href="https://github.com/pedrinzz10/agenda-ia">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrinzz10&repo=agenda-ia&theme=dark" />
-  </a>
-</div>
-
----
-
-## 📈 Estatísticas no GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrinzz10&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-## 🤝 Contato
-<p align="center">
-  <a href="mailto:opedro485@gmail.com"><img src="https://img.shields.io/badge/Email-seu_email@dominio.com-blue?logo=gmail" /></a>
-  <a href="www.linkedin.com/in/pedro-henrique-oliveira-484336261"><img src="https://img.shields.io/badge/LinkedIn-seu-linkedin-blue?logo=linkedin" /></a>
-</p>
+### 🚀 Sobre mim
+
+- 🎓 Cursando **ADS na FIAP**
+- 🤖 Desenvolvendo bots com **IBM Watson Assistant + Node-RED**
+- 🌐 Curioso por **Front-end, Banco de Dados e Inteligência Artificial**
+- 🧠 Em constante evolução e busca por conhecimento
+- 🕹️ Interessado em áreas como Game Testing e Dev de aplicações úteis
+
+---
+
+### 💼 Tecnologias que já usei
+
+```txt
+💻 Linguagens: Java, JavaScript, Python, SQL, TypeScript, HTML, CSS
+🛠️ Ferramentas: Git, Node-RED, IBM Watson, Oracle SQL Data Modeler, Figma
+🗃️ Banco de dados: MySQL, Oracle, MongoDB
+📱 Front-end: React (inicial), Bootstrap
