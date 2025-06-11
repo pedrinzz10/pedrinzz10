@@ -7,20 +7,17 @@
 ### 🌐 Minhas Redes Sociais
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedrohenriqueads" target="_blank">
+  <a href="www.linkedin.com/in/pedro-henrique-oliveira-484336261" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pedro.henrique@email.com" target="_blank">
+  <a href="mailto:opedro485@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/seuTelegram" target="_blank">
+  <a href="https://t.me/pdeoliveira" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/seuInstagram" target="_blank">
+  <a href="https://www.instagram.com/_pedrinzz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/seuTwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
