@@ -1,5 +1,38 @@
-<h1 align="center">Fala aí 👋, eu sou o Pedro Henrique</h1>
-<p align="center">🚀 Estudante de ADS | 💡 Apaixonado por tecnologia | 👨‍💻 Em busca de aprendizado constante</p>
+<h1 align="center">👋 Olá! Eu sou o Pedro Henrique</h1>
+
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, código limpo e aprendizado constante.
+</p>
+
+### 🌐 Minhas Redes Sociais
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedrohenriqueads" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pedro.henrique@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/seuTelegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/seuInstagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/seuTwitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Cursando **ADS na FIAP**
+- 🤖 Desenvolvendo bots com **IBM Watson Assistant + Node-RED**
+- 🌐 Curioso por **Front-end, Banco de Dados e Inteligência Artificial**
+- 🧠 Em constante evolução e busca por conhecimento
+- 🕹️ Interessado em áreas como Game Testing e Dev de aplicações úteis
 
 ---
 
@@ -16,8 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
 </p>
 
----
-
 ### 📊 Minhas Estatísticas do GitHub:
 
 <p align="center">
@@ -26,16 +57,3 @@
 </p>
 
 ---
-
-### 📫 Onde me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/pedrohenriqueads) *(ajusta se o link for outro)*
-- ✉️ pedro.henrique@email.com *(substitui pelo seu e-mail real, se quiser)*
-
----
-
-### ☕ Apoia meu trabalho
-<p align="center">
-  <a href="https://www.buymeacoffee.com/pedrinzz10" target="_blank">
-    <img src="https://img.shields.io/badge/BuyMeACoffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
