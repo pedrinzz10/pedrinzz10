@@ -26,8 +26,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Cursando **ADS na FIAP**
-- 🤖 Desenvolvendo bots com **IBM Watson Assistant + Node-RED**
-- 🌐 Curioso por **Front-end, Banco de Dados e Inteligência Artificial**
+- 🌐 Curioso por **Back-end, Banco de Dados e Inteligência Artificial**
 - 🧠 Em constante evolução e busca por conhecimento
 - 🕹️ Interessado em áreas como Game Testing e Dev de aplicações úteis
 
