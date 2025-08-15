@@ -28,7 +28,6 @@
 - 🎓 Cursando **ADS na FIAP**
 - 🌐 Curioso por **Back-end, Banco de Dados e Inteligência Artificial**
 - 🧠 Em constante evolução e busca por conhecimento
-- 🕹️ Interessado em áreas como Game Testing e Dev de aplicações úteis
 
 ---
 
